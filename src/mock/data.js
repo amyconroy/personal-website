@@ -59,7 +59,7 @@ export const projectsData = [
     title: 'Undergraduate Research Project: Article 17 and Machine Learning',
     info: '',
     info2: '',
-    url: '/src/images/AmyConroyCV.pdf',
+    url: '../../mock/fyrp.pdf',
     repo: '', // if no repo, the button will not show up
   },
 ];

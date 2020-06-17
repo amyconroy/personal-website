@@ -5,6 +5,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import PortfolioContext from '../../context/context';
 import Title from '../Title/Title';
 import ProjectImg from '../Image/ProjectImg';
+import Pdf from '../../mock/fyrp.pdf';
 
 const Projects = () => {
   const { projects } = useContext(PortfolioContext);
@@ -44,8 +45,8 @@ const Projects = () => {
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
                       {url && (
-                        <a target="_blank" rel="noopener noreferrer" className="cta-btn cta-btn--hero" href={url}>
-                          Read About It
+                        <a target="_blank" rel="noopener noreferrer" className="cta-btn cta-btn--hero" href={Pdf}>
+                          Read It
                         </a>
                       )}
                       {repo && (
