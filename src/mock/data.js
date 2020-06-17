@@ -28,30 +28,30 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
+    img: 'project3.jpg',
+    title: 'Do or Die Fitness Tracker',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/amyconroy/Do-or-Die-Fitness-Tracker', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'project2.jpg',
+    title: 'PLAY Text Adventure Game Website',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/amyconroy/play', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
     img: 'project.jpg',
-    title: '',
+    title: 'Undergraduate Research Project: Article 17 and Machine Learning',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
