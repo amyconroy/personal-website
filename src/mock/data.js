@@ -2,9 +2,9 @@ import uuidv1 from 'uuid/v1';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Amy Conroy',
+  lang: 'en',
+  description: 'Welcome to my website',
 };
 
 // HERO DATA
@@ -68,11 +68,6 @@ export const footerData = {
     {
       id: uuidv1(),
       name: 'twitter',
-      url: '',
-    },
-    {
-      id: uuidv1(),
-      name: 'codepen',
       url: '',
     },
     {
