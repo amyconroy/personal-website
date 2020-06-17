@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'AmyConroyCV.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -46,11 +46,20 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
+    img: 'project4.jpg',
+    title: 'Homebrew Database',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/amyconroy/database-system', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'project.jpg',
     title: 'Undergraduate Research Project: Article 17 and Machine Learning',
     info: '',
     info2: '',
-    url: '',
+    url: '/src/images/AmyConroyCV.pdf',
     repo: '', // if no repo, the button will not show up
   },
 ];
