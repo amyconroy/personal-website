@@ -45,7 +45,7 @@ export const projectsData = [
     img: 'project2.jpg',
     title: 'PLAY Text Adventure Game Website',
     info:
-      "This website for the completely original ‘PLAY text adventure game’ engine, in the style of the retro 80's, was a pair project completed as coursework. Features of the website include a comment page, a fully working shop (with a products and downloads page, persistent basket, and a receipt generated using the database), as well as a demo page, including a demo of the text adventure game written in javascript.",
+      "This website for the completely original ‘PLAY text adventure game’ engine, in the style of the retro 80's, was a pair project completed as coursework. Features of the website include a comment page, a fully working shop (with a products and downloads page, persistent basket, and a receipt generated using the database), as well as a demo page, including a demo of the text adventure game written in Javascript.",
     info2: '',
     url: '',
     repo: 'https://github.com/amyconroy/play', // if no repo, the button will not show up
