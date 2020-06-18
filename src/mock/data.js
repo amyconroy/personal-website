@@ -45,7 +45,7 @@ export const projectsData = [
     img: 'project5.jpg',
     title: 'Wireworld Adaption',
     info:
-      "This is a an adaption of the wireworld cellular automaton, written in C. Wireworld is formed from a 2D grid of cells, simulating digitical electronics. The four states for the cells are 'empty', 'electron head', 'electron tail', or 'copper'. The next set are determined by a certain set of rules.",
+      "This is an adaption of the wireworld cellular automaton, written in C. Wireworld is formed from a 2D grid of cells, simulating digitical electronics. The four states for the cells are 'empty', 'electron head', 'electron tail', or 'copper'. The next set are determined by a certain set of rules.",
     info2: '',
     url: '',
     repo: 'https://github.com/amyconroy/Wireworld', // if no repo, the button will not show up
