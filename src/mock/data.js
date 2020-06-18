@@ -42,11 +42,21 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
+    img: 'project5.jpg',
+    title: 'Wireworld Adaption',
+    info:
+      "This is a an adaption of the wireworld cellular automaton, written in C. Wireworld is formed from a 2D grid of cells, simulating digitical electronics. The four states for the cells are 'empty', 'electron head', 'electron tail', or 'copper'. The next set are determined by a certain set of rules.",
+    info2: '',
+    url: '',
+    repo: 'https://github.com/amyconroy/Wireworld', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'project2.jpg',
     title: 'PLAY Text Adventure Game Website',
     info:
       "This website for the completely original ‘PLAY text adventure game’ engine, in the style of the retro 80's, was a pair project completed as coursework. Features of the website include a comment page, a fully working shop (with a products and downloads page, persistent basket, and a receipt generated using the database), as well as a demo page, including a demo of the text adventure game written in Javascript.",
-    info2: '',
+    info2: 'Project completed using HTML, CSS, and Javascript with the database integrated using SQLite3.',
     url: '',
     repo: 'https://github.com/amyconroy/play', // if no repo, the button will not show up
   },
