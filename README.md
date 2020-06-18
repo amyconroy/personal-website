@@ -5,5 +5,7 @@
 
 <p align="center"><img src="example.png"width=75%></p>
 
+Website includes my resume, bio, and links to previous projects. 
+
 ## Built With 
 [Gatsby](https://github.com/gatsbyjs/gatsby) and the starter template [Gatsby-simplefolio](https://github.com/cobidev/gatsby-simplefolio). 
