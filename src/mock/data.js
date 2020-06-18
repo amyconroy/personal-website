@@ -18,7 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
+  paragraphOne:
+    "I'm Amy, a law graduate who fell in love with the impact technology can have on the public sector. This lead to me deciding to do a MSc Computer Science course, which I am currently completing.",
   paragraphTwo: '',
   paragraphThree: '',
   resume: 'AmyConroyCV.pdf', // if no resume, the button will not show up
