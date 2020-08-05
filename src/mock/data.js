@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "I'm Amy, a law graduate passionate about the impact that technology can have on the public sector, in particular the legal field. During my undergraduate degree I became incredibly interested in IT law, and subsequently wrote my dissertation on Article 17 of the GDPR and Machine Learning. This lead to me enrolling in a MSc Computer Science course, which I am currently completing at the University of Bristol. My current research project is to create a system to automatically generate summaries of UKHL judgments using supervised machine learning.",
+    "I'm Amy, a law graduate passionate about the impact that technology can have on the legal field. During my undergraduate degree I became incredibly interested in IT law, and subsequently wrote my dissertation on Article 17 of the GDPR and Machine Learning. This lead to me enrolling in a MSc Computer Science course, which I am currently completing at the University of Bristol. My current research project is to create a system to automatically generate summaries of UKHL judgments using supervised machine learning.",
   paragraphTwo:
     "I am experienced with programming languages such as C/C++, Python, Java, Javascript, HTML, and CSS. I am a fast-learner, and am always looking to expand my skill set! When I'm not coding however, I love reading, travelling, and creative writing. I currently have a published novel on Wattpad with nearly 500,000 reads. My favourite pastime has to be figure skating, which I have done for the past 18 years.",
   paragraphThree:
