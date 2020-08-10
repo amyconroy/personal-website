@@ -34,9 +34,9 @@ export const projectsData = [
     img: 'project6.jpg',
     title: 'Automatic Summarisation of UKSC Judgments',
     info:
-      'I am currently developing an automatic summarisation tool that uses supervised ML and NLP to create a pipeline that generates customaisable summaries of UK case judgments.',
+      'I am currently developing an automatic summarisation tool that uses supervised ML and NLP to create a pipeline that generates customisable summaries of UK case judgments.',
     info2:
-      'The primary aim of the tool is to allow those manually writing summaries the opportunitiy to have access to an instantaneous case summary. This is expected to be completed September 2020.',
+      'The primary aim of the tool is to allow those manually writing summaries the opportunity to have access to an instantaneous case summary. This is expected to be completed September 2020.',
     url: '',
     // if no repo, the button will not show up
   },
