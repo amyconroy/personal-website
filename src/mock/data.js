@@ -37,7 +37,7 @@ export const projectsData = [
       'I am the co-founder of openTenancy, an open source platform that has an automated interview breaking down UK tenancy rights.',
     info2:
       "We're hoping to do our bit to make the law open source and make the law more accessible. We're looking for contributors, so please check out our Github for more information on getting involved!",
-    url: 'https://github.com/open-tenancy',
+    repo: 'https://github.com/open-tenancy',
     // if no repo, the button will not show up
   },
   {
