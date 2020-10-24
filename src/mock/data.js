@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     "I am experienced with programming languages such as C/C++, Python, Java, Javascript, HTML, and CSS. I am a fast-learner, and am always looking to expand my skill set! When I'm not coding however, I love reading, travelling, and creative writing. I currently have a published novel on Wattpad with nearly 500,000 reads. My favourite pastime has to be figure skating, which I have done for the past 18 years.",
   paragraphThree:
-    'I am open to, and excited about, new opportunities upon the completion of my MSc degree in September 2020. If you think you have a role that might work well for me, please get in touch!',
+    'I currently intern at Avvoka, a Legal Tech startup, as well as work on openTenancy - an open source legal platform that I am the co-founder of. If you want to learn more or chat to me, please get in touch!',
   resume: 'AmyConroyCV.pdf', // if no resume, the button will not show up
 };
 
@@ -31,12 +31,23 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
+    img: 'openTenancy',
+    title: 'openTenancy',
+    info:
+      'I am the co-founder of openTenancy, an open source platform that has an automated interview breaking down UK tenancy rights.',
+    info2:
+      "We're hoping to do our bit to make the law open source and make the law more accessible. We're looking for contributors, so please check out our Github for more information on getting involved!",
+    url: 'https://github.com/open-tenancy',
+    // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'project6.jpg',
     title: 'Automatic Summarisation of UKSC Judgments',
     info:
-      'I am currently developing an automatic summarisation tool that uses supervised ML and NLP to create a pipeline that generates customisable summaries of UK case judgments.',
+      'I am have developed an automatic summarisation tool that uses supervised ML and NLP to create a pipeline that generates customisable summaries of UK case judgments as part of my MSc thesis.',
     info2:
-      'The primary aim of the tool is to allow those manually writing summaries the opportunity to have access to an instantaneous case summary. This is expected to be completed September 2020.',
+      'The primary aim of the tool is to allow those manually writing summaries the opportunity to have access to an instantaneous case summary. I have a paper being published in late 2020 about this, and am cleaning up the code to release it publically.',
     url: '',
     // if no repo, the button will not show up
   },
@@ -99,7 +110,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: 'amyeileenconroy@gmail.com',
+  email: 'https://calendly.com/amyconroy',
 };
 
 // FOOTER DATA
